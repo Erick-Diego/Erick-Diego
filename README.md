@@ -65,16 +65,20 @@
 
 ---
 
-<h2 align="left"> 🌐 Socials </h2>
+<h2 align = "left"> 🌐 SOCIALS </h2>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/erick-diego" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+###
+
+<div align = "center">
+  <a href = "https://www.linkedin.com/in/erick-diego-da-conceição-batista" target = "_blank">
+    <img src = "https://skillicons.dev/icons?i=linkedin" width = "52" height = "40" alt = "linkedin logo" />
   </a>
-  <a href="https://github.com/erick-diego" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img width="12"/>
+  <a href = "https://discord.gg/baXaAnVGC8" target = "_blank">
+    <img src = "https://skillicons.dev/icons?i=discord" width = "52" height = "40" alt = "discord logo" />
   </a>
-  <a href="https://twitter.com/erick-diego" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <img width="12"/>
+  <a href = "https://www.instagram.com/erickdiego_55" target = "_blank">
+    <img src = "https://skillicons.dev/icons?i=instagram" width = "52" height = "40" alt = "instagram logo" />
   </a>
 </div>
