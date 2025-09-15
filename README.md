@@ -60,7 +60,7 @@
 
 <h2 align="left"> 🛠️ TOOLS </h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,Ubunto,vscode,pycharm,clion,github,notion,obsidian,aws,terraform,kubernetes,docker,git,supabase,postgresql,mysql" height="40" alt="tools logos" />
+  <img src="https://skillicons.dev/icons?i=windows,ubunto,vscode,pycharm,clion,github,notion,obsidian,aws,terraform,kubernetes,docker,git,supabase,postgresql,mysql" height="40" alt="tools logos" />
 </div>
 
 ---
