@@ -47,7 +47,15 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" />
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap" height="40" alt="frontend logos" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
 </div>
 
 <h2 align="left"> 🛠️ TOOLS </h2>
