@@ -70,11 +70,11 @@
 ###
 
 <div align = "center">
-  <a href = "https://www.linkedin.com/in/erick-diego-da-conceição-batista" target = "_blank">
+  <a href = "https://www.linkedin.com/in/erick-diego-da-conceição-batista-a12287307" target = "_blank">
     <img src = "https://skillicons.dev/icons?i=linkedin" width = "52" height = "40" alt = "linkedin logo" />
   </a>
   <img width="12"/>
-  <a href = "https://discord.gg/baXaAnVGC8" target = "_blank">
+  <a href = "https://discord.gg/732414107265007657" target = "_blank">
     <img src = "https://skillicons.dev/icons?i=discord" width = "52" height = "40" alt = "discord logo" />
   </a>
   <img width="12"/>
