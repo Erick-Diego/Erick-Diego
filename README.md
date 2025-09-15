@@ -5,9 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Anek+Devanagari&weight=600&size=35&pause=1000&color=f8f8ff&center=true&vCenter=true&width=500&lines=Hi,+I'm+Erick+Diego!;Full-Stack+Developer;Always+learning+new+things;Welcome!"/>
   </a>
 </div>
-
+<img width="12"/>
 ---
-
+<img width="12"/>
 <h2 align="left"> 🧑🏽‍💻 About Me </h2>
 
 <p align="center">
@@ -15,18 +15,18 @@
   🚀 Currently working with TypeScript, NextJs, Node.js, NestJs, Prisma and PostgreSQL.<br/>
   🌱 Learning DevOps, Docker, and Cloud.<br/>
 </p>
-
+<img width="12"/>
 ---
-
+<img width="12"/>
 <h2 align="left"> 📊 GitHub Stats </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erick-diego&show_icons=true&theme=github_dark" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erick-diego&layout=compact&theme=github_dark" height="150" alt="languages graph" />
 </div>
-
+<img width="12"/>
 ---
-
+<img width="12"/>
 <h2 align="left"> 💻 TECH STACK </h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
@@ -62,9 +62,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux,vscode,pycharm,github,notion,obsidian,aws,kubernetes,docker,git,supabase,postgresql,mysql,prisma" height="40" alt="tools logos" />
 </div>
-
+<img width="12"/>
 ---
-
+<img width="12"/>
 <h2 align = "left"> 🌐 SOCIALS </h2>
 
 ###
@@ -82,3 +82,4 @@
     <img src = "https://skillicons.dev/icons?i=instagram" width = "52" height = "40" alt = "instagram logo" />
   </a>
 </div>
+<img width="12"/>
