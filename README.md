@@ -11,8 +11,8 @@
 <h2 align="left"> 🧑🏽‍💻 About Me </h2>
 
 <p align="center">
-  Hello! I'm Erick-Diego, a Full-Stack Developer passionate about technology, programming, and problem-solving.<br/>
-  🚀 Currently working with TypeScript, React, Node.js, PHP, and PostgreSQL.<br/>
+  Hello! I'm Erick Diego, a Full-Stack Developer passionate about technology, programming, and problem-solving.<br/>
+  🚀 Currently working with TypeScript, NextJs, Node.js, NestJs, Prisma and PostgreSQL.<br/>
   🌱 Learning DevOps, Docker, and Cloud.<br/>
 </p>
 
@@ -27,18 +27,32 @@
 
 ---
 
-<h2 align="left"> 💻 Tech Stack </h2>
-
+<h2 align="left"> 💻 TECH STACK </h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,laravel,java,spring,python,go,html,css,bootstrap,postgresql,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node.js logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nest.js logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="next.js logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap" height="40" alt="frontend logos" />
 </div>
 
----
-
-<h2 align="left"> 🛠️ Tools </h2>
-
+<h2 align="left"> 🛠️ TOOLS </h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,notion,aws,terraform,kubernetes,supabase,figma" />
+  <img src="https://skillicons.dev/icons?i=windows,vscode,pycharm,clion,github,notion,obsidian,aws,terraform,kubernetes,docker,git,supabase,postgresql,mysql" height="40" alt="tools logos" />
 </div>
 
 ---
