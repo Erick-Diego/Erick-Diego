@@ -1,34 +1,77 @@
-# 👋 Hello, welcome to my profile!
+<!-- README.md - estilo HTML dentro do Markdown -->
 
-I'm happy to see you here 😁  
+<!-- Banner animado do capsule-render -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa&section=header&text=Erick%20Diego&fontSize=36" alt="Banner animado" />
+</p>
 
-## 👨‍💻 About Me
-- 💻 I'm a Full-Stack Developer
-- 🌐 Passionate about web & mobile development
-- 🎯 Always learning new technologies
-- 📌 Favorite language: **TypeScript**
+<h1 align="center">👋 Olá — eu sou o Erick Diego</h1>
+<p align="center">Desenvolvedor Full-Stack • Apaixonado por TypeScript, PHP e infra • Sempre aprendendo</p>
 
----
+<hr/>
 
-## 🛠️ Tech Stack
+<!-- Sobre -->
+<h2>🧾 Sobre</h2>
+<p>
+  - 💻 Full-Stack Developer<br/>
+  - 🔧 Principal stack: <strong>TypeScript, React, Node.js, PHP (Laravel)</strong><br/>
+  - 🌱 Estudando: DevOps, Docker, Postgres, Fastify
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+<hr/>
 
----
+<!-- Tech stack - ícones com title (tooltip ao passar o mouse) -->
+<h2>🛠️ Techs</h2>
+<p>
+  <!-- coloque links e use title para mostrar info no hover -->
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript —  ESNext, Node.js" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript — Tipagem estática" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" title="React — Frontend" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js — Backend" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP — Backend / Laravel" />
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40" title="Laravel" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker — Containers" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40" title="PostgreSQL" />
+  </a>
+</p>
 
-## 📊 GitHub Stats
+<p><em>Dica:</em> passe o mouse sobre os ícones — o `title` aparece como tooltip (simples e compatível com README do GitHub).</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erick-Diego&show_icons=true&theme=radical)
+<hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Diego&layout=compact&theme=radical)
+<!-- GitHub Stats (cards) -->
+<h2>📈 Stats</h2>
 
-![Streak Stats](https://streak-stats.demolab.com?user=Erick-Diego&theme=radical)
+<p align="center">
+  <!-- substitua SEU-USUARIO pelo seu usuário do GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" alt="GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<hr/>
+
+<!-- Pequena seção animada extra (outro capsule para dividir seção) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=6fa3fa&section=footer&text=Vamos%20construir%20coisas%20incríveis!" alt="Animated footer" />
+</p>
+
+<!-- Rodapé simples -->
+<p align="center">
+  <small>🔗 <a href="https://github.com/SEU-USUARIO">github.com/SEU-USUARIO</a> • ☕ Vamos conversar? (LinkedIn / Email)</small>
+</p>
