@@ -27,8 +27,8 @@ I'm happy to see you here 😁
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erick-Diego&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Diego&layout=compact&theme=radical)
 
-![Streak Stats](https://streak-stats.demolab.com?user=SEU-USUARIO&theme=radical)
+![Streak Stats](https://streak-stats.demolab.com?user=Erick-Diego&theme=radical)
