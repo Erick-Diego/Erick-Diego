@@ -70,7 +70,7 @@
 ###
 
 <div align = "center">
-  <a href = "https://www.linkedin.com/in/erick-diego-da-conceição-batista-a12287307" target = "_blank">
+  <a href = "https://www.linkedin.com/in/erick-diego-a12287307/" target = "_blank">
     <img src = "https://skillicons.dev/icons?i=linkedin" width = "52" height = "40" alt = "linkedin logo" />
   </a>
   <img width="12"/>
