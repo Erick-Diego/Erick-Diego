@@ -47,8 +47,6 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" />
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
@@ -64,22 +62,3 @@
 </div>
 
 ---
-
-<h2 align = "left"> 🌐 SOCIALS </h2>
-
-###
-
-<div align = "center">
-  <a href = "https://www.linkedin.com/in/erick-diego-a12287307/" target = "_blank">
-    <img src = "https://skillicons.dev/icons?i=linkedin" width = "52" height = "40" alt = "linkedin logo" />
-  </a>
-  <img width="12"/>
-  <a href = "https://discord.gg/732414107265007657" target = "_blank">
-    <img src = "https://skillicons.dev/icons?i=discord" width = "52" height = "40" alt = "discord logo" />
-  </a>
-  <img width="12"/>
-  <a href = "https://www.instagram.com/erickdiego_55" target = "_blank">
-    <img src = "https://skillicons.dev/icons?i=instagram" width = "52" height = "40" alt = "instagram logo" />
-  </a>
-</div>
-<img width="12"/>
