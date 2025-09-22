@@ -58,7 +58,7 @@
 
 <h2 align="left"> 🛠️ TOOLS </h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,vscode,pycharm,github,notion,obsidian,aws,kubernetes,docker,git,supabase,postgresql,mysql,prisma" height="40" alt="tools logos" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,vscode,pycharm,github,notion,obsidian,aws,kubernetes,docker,git,postgresql,mysql,prisma" height="40" alt="tools logos" />
 </div>
 
 ---
